@@ -1,2 +1,2 @@
 # Entornos-Alimenticios
-Repo del proyecto de Entornos Alimenticios
+RepoS del proyecto de Entornos Alimenticios
